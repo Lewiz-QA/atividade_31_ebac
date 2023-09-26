@@ -1,0 +1,7 @@
+{
+  "component": {
+    "componentFolder": "src",
+    "testFiles": "**/*.spec.js"
+  },
+  "projectId": "dmxo8r"
+}
